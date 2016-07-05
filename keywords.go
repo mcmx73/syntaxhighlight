@@ -138,6 +138,7 @@ var keywords = map[string]struct{}{
 	"static_assert":    {},
 	"static_cast":      {},
 	"strictfp":         {},
+	"string":           {},
 	"struct":           {},
 	"sub":              {},
 	"super":            {},
