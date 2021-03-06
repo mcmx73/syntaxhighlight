@@ -1,4 +1,4 @@
-forked from sourcegraph/syntaxhighlight
+forked from `sourcegraph/syntaxhighlight`
 ---------------------------------------
 
 # syntaxhighlight
